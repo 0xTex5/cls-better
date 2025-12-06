@@ -1,5 +1,5 @@
 # cls_better
-i got tired of typing in clear so i decided to make cls so i didn't have to type in an extra 2 leetters
+i got tired of typing in clear so i decided to make cls so i didn't have to type in an extra 2 letters
 
 
 
