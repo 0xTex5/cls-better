@@ -6,4 +6,4 @@ build:
 
 
 clean:
-	rm -rf ./cls
+	rm ./cls
