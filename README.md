@@ -14,3 +14,15 @@ make sure you have gcc, and type
 into the console
 
 boom.
+
+
+
+# installing cls from source
+
+type
+
+<code>make install</code>
+
+into the console
+
+it will automatically build a new version and install it to your PATH.
