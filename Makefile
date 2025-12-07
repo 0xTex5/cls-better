@@ -11,7 +11,10 @@ clean:
 
 install:
 	@echo "installing cls..."
-	gcc main.c -o ./cls
+	@if [ ! -f "./cls" ]; then \
+		echo "you must run make build before you can install."; \
+		exit 1; \
+	fi
 	mv ./cls /usr/local/bin
 	@echo "finished installing cls"
 
