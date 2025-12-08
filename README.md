@@ -32,3 +32,8 @@ type
 into the console
 
 it will automatically build a new version and install it to your PATH.
+
+
+# uninstalling cls
+
+remove ./cls from /usr/local/bin
