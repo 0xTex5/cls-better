@@ -3,6 +3,11 @@ i got tired of typing in clear so i decided to make cls so i didn't have to type
 
 
 
+# installing cls
+
+type this shell script into your terminal to install cls-better quickly.
+note: cls-better requires gcc, make, and git to install.
+
 
 
 # building cls
