@@ -8,6 +8,7 @@ i got tired of typing in clear so i decided to make cls so i didn't have to type
 type this shell script into your terminal to install cls-better quickly.
 note: cls-better requires gcc, make, and git to install.
 
+<code>curl -fSSl https://raw.githubusercontent.com/0xTex5/cls-better/refs/heads/main/install.sh | sudo bash<code>
 
 
 # building cls
